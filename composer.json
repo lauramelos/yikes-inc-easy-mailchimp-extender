@@ -1,12 +1,11 @@
 {
-	"name": "yikesinc/yikes-inc-easy-mailchimp-extender",
+    "name": "alexjgustafson/yikes-inc-easy-mailchimp-extender",
     "description": "Powerful Mailchimp plugin for WordPress created by Yikes Inc.",
     "keywords": ["mailchimp", "plugin", "WordPress", "mailing", "list"],
-    "homepage": "http://packagist.org/",
+    "homepage": "https://github.com/alexjgustafson/yikes-inc-easy-mailchimp-extender",
     "type": "wordpress-plugin",
     "license": "GPL-2.0+",
-    "authors": [
-        {
+    "authors": [{
             "name": "Yikes Inc.",
             "email": "info@yikesinc.com",
             "homepage": "http://www.yikesinc.com"
@@ -15,10 +14,15 @@
             "name": "Evan Herman",
             "email": "Evan@yikesinc.com",
             "homepage": "http://www.yikesinc.com"
+        },
+        {
+            "name": "Alex J. Gustafson",
+            "email": "howdy@alexjgustafson.tech",
+            "homepage": "https://www.alexjgustafson.tech"
         }
     ],
     "support": {
-          "email": "support@yikesinc.com"
+        "email": "howdy@alexjgustafson.tech"
     },
     "require": {
         "php": ">=5.3"
