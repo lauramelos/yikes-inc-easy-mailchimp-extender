@@ -1,8 +1,8 @@
 {
-    "name": "alexjgustafson/yikes-inc-easy-mailchimp-extender",
+    "name": "lauramelos/yikes-inc-easy-mailchimp-extender",
     "description": "Powerful Mailchimp plugin for WordPress created by Yikes Inc.",
     "keywords": ["mailchimp", "plugin", "WordPress", "mailing", "list"],
-    "homepage": "https://github.com/alexjgustafson/yikes-inc-easy-mailchimp-extender",
+    "homepage": "https://github.com/lauramelos/yikes-inc-easy-mailchimp-extender",
     "type": "wordpress-plugin",
     "license": "GPL-2.0+",
     "authors": [{
